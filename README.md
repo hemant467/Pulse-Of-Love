@@ -72,9 +72,14 @@ Because:
 
 This project is a reminder that creativity and logic can coexist beautifully.
 
+https://github.com/user-attachments/assets/20274579-83f4-466d-a6d9-bb2e91947a8a
+
+<div align="center">
 🧑‍💻 Designed & Developed By
 
-HK 💖
+💖 HK 💝
+</div>
+
 Turning equations into emotions ✨.
 
 <img width="657" height="486" alt="valentine" src="https://github.com/user-attachments/assets/3dc413d9-cb50-449f-a79e-772776d89304" />
