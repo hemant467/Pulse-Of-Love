@@ -48,21 +48,52 @@ Together, these create a visually pleasing and emotionally expressive animation 
 
 🚀 How to Run
 
-1. Clone this repository:
+# Option 1: Clone the original repo
+
+If you just want a local copy of Hemant’s repo:
+
 ```bash
-git clone https://github.com/your-username/HeartBeat-MATLAB.git
+git clone https://github.com/hemant467/Pulse-Of-Love.git
 ```
 
-2. Open MATLAB
+This will download all files, including your `valentine code explanation.m`. After cloning, you can navigate to the file:
 
-3. Run the script:
+```bash
+cd Pulse-Of-Love/Code📟
 ```
-HeartBeat.m
+
+# Option 2: Add the original repo as a remote
+
+If you already have a local repository and want to link it to the original repo (for pulling updates or reference):
+
+```bash
+git remote add upstream https://github.com/hemant467/Pulse-Of-Love.git
 ```
+
+  - `origin` → usually points to your repo
+  - `upstream` → points to the original source repo
+
+Then you can pull updates from the original repo anytime:
+
+```bash
+git fetch upstream
+git merge upstream/main
+```
+
+(replace `main` with the branch name if it’s different)
 
 4. Sit back and let the heart beat ❤️
 
-💝 Why This Project?
+# ✅ Quick Summary
+
+| Action                                   | Command                                                                  |
+| ---------------------------------------- | ------------------------------------------------------------------------ |
+| Clone original repo                      | `git clone https://github.com/hemant467/Pulse-Of-Love.git`               |
+| Add original repo to existing local repo | `git remote add upstream https://github.com/hemant467/Pulse-Of-Love.git` |
+| Pull updates from original repo          | `git fetch upstream && git merge upstream/main`                          |
+
+
+# 💝 Why This Project?
 
 Because:
 
@@ -83,5 +114,7 @@ https://github.com/user-attachments/assets/20274579-83f4-466d-a6d9-bb2e91947a8a
 Turning equations into emotions ✨.
 
 <img width="657" height="486" alt="valentine" src="https://github.com/user-attachments/assets/3dc413d9-cb50-449f-a79e-772776d89304" />
+
+<p align="center"><a href="https://github.com/hemant467/Pulse-Of-Love">💖 Pulse Of Love 💘</a></p>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=💖+Heartbeat+of+Love+💘&font=Fira%20Code&color=%23FFD700&center=true&width=600&height=60">
